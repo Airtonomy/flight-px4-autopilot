@@ -77,4 +77,6 @@ px4_add_romfs_files(
 	2507_cloudship
 	6011_typhoon_h480
 	6011_typhoon_h480.post
+	6012_typhoon_h480_livox
+	6012_typhoon_h480_livox.post
 )
